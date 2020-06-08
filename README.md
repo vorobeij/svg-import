@@ -1,7 +1,12 @@
 # Store all your Android resources images in one folder
 
+## Features
+1. Import all project icons into one folder to see all icons from file manager.
+1. Convert only new svg files (changed for git)
+
 ## Installation
-Create separate module with name `widgets` in your project. All xml drawables will be converted there.
+1. Install https://github.com/alexjlockwood/svg2vd
+1. Create separate module with name `widgets` in your project. All xml drawables will be converted there.
 
 ### Run from console
 ``` bash
